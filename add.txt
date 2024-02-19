@@ -3,4 +3,4 @@ init
 status
 addd
 addddd
-aaaa
+aaaagit
