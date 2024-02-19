@@ -7,7 +7,7 @@ int main()
    cout<<"venkatesh";
    cout<<"venkatesh";
    cout<<"venka";
-yyy
+
 
 
      cout<<"hello venkatesh";
